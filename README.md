@@ -4,7 +4,7 @@ This is an Ai assistant capable of rag and executing tasks such as Api calling
 
 # Context Aware Chatbot
 
-This project solves problem statement 4 i.e. context-aware chatbot that addresses three key challenges:
+context-aware chatbot that addresses three key challenges:
 
 1. **Knowledge integration**: The chatbot responds strictly from provided documents (PDFs, text files, etc.), avoiding any pre-trained information.
 2. **Task Execution**: The chatbot can perform tasks like booking a policy or fetching an invoice using API access (for demonstration purposes we have emulated API which can then be replaced with real ones) .
